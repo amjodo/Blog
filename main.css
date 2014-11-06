@@ -1,3 +1,14 @@
 body{
-background-color: red;
+background-color: blue;
+color: grey;
+font-family: 'Indie Flower', cursive;
+}
+label{
+	font-size: 25px;
+}
+/*media query to change color*/
+@media (max-width:320px){
+	body{
+		background-color: lightblue;
+	}
 }

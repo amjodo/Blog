@@ -17,4 +17,9 @@
 		<textarea name="post"></textarea>
 	</div>
 
+
+	<div>
+	<!-- creating a submit button which now refreshes the page -->
+		<button type="submit">Submit</button>
+	</div>
 </form>
